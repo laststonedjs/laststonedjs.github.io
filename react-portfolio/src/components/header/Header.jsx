@@ -1,8 +1,8 @@
 import React from 'react'
+// components
 import CTA from './CTA'
 import HeaderSocials from './HeaderSocials'
 
-import Me from '../../assets/avatar.jpg'
 import './Header.css'
 
 const Header = () => {
@@ -14,9 +14,9 @@ const Header = () => {
 				<h4 className="text-light">Web Developer</h4>
 				<CTA />
 				<HeaderSocials />
-				{/* <div className="me">
+				{/* <div className="header__profile-img">
 					<img 
-						src=''
+						src={headerImg}
 						alt='me'
 					/>
 				</div> */}
