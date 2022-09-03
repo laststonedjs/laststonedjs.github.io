@@ -2,7 +2,7 @@ import React from 'react'
 // components
 import CTA from './CTA'
 import HeaderSocials from './HeaderSocials'
-
+// styles
 import './Header.css'
 
 const Header = () => {
