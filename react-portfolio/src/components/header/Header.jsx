@@ -2,6 +2,8 @@ import React from 'react'
 // components
 import CTA from './CTA'
 import HeaderSocials from './HeaderSocials'
+// assets
+import headerImg from '../../assets/web-dev-header.png'
 // styles
 import './Header.css'
 
