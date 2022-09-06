@@ -44,27 +44,23 @@ const Services = () => {
 					<ul className='service__list'>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Ecommerce Applications</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Custom Web Applications</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Content Management System (CMS)</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>QA & Testing</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
-						</li>
-						<li>
-							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Web Support and Maintenance</p>
 						</li>
 					</ul>
 				</article>
@@ -77,23 +73,23 @@ const Services = () => {
 					<ul className='service__list'>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Use JavaScript Frameworks</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Makes Full Responsive Sites</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Developing Mobile Applications</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Successful Websites</p>
 						</li>
 						<li>
 							<BsCheck2Circle className='service__list-icon' />
-							<p>Lorem, ipsum dolor adipisicing.</p>
+							<p>Use CSS/JS pattern, Tailwind</p>
 						</li>
 					</ul>
 				</article>
