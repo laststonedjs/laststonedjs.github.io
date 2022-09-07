@@ -34,12 +34,18 @@
 
 /* ================= MEDIA QUERIES (medium devices) ==================== */
 @media screen and (max-width: 1024px) {
-	
+	.portfolio__container {
+		grid-template-columns: 1fr 1fr;
+		gap: 1.2rem;
+	}
 }
 
 /* ================= MEDIA QUERIES (small devices) ==================== */
 @media screen and (max-width: 600px) { 
-	
+	.portfolio__container {
+		grid-template-columns: 1fr;
+		gap: 1rem;
+	}
 }
 
 
