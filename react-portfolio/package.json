@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "http://laststonedjs.github.io/react-portfolio-website",
+  "homepage": "http://laststonedjs.github.io/",
   "private": true,
   "dependencies": {
     "emailjs-com": "^3.2.0",
