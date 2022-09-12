@@ -1,56 +1,50 @@
 import React from 'react'
 // assets
-import project1 from '../../assets/project1.png'
-import project2 from '../../assets/project2.png'
-import project3 from '../../assets/project3.png'
-import project4 from '../../assets/project4.png'
-import project5 from '../../assets/project5.png'
-import project6 from '../../assets/project6.png'
+import chatorzo_project1 from '../../assets/chatorzo_portfolio_react.jpg'
+import name_it_project2 from '../../assets/name-it-portfolio.png'
+import gamesoft_project3 from '../../assets/gamesoft_portfolio_angular.jpg'
+import bookndrive_project4 from '../../assets/project4.png'
+import pokedex_project5 from '../../assets/pokedex_portfolio.jpg'
+import bob_project6 from '../../assets/project3.png'
 // styles
 import './Portfolio.css'
 
 const data = [
 	{
 		id: 1,
-		image: project1,
-		title: 'I have implemented plenty of animations adapted to the client content and needs.',
-		github: 'https://github.com/laststonedjs',
-		linkedIn: 'https://www.linkedin.com/in/filip-sarovic-4376a61a1/'
+		image: chatorzo_project1,
+		title: 'Built in React real-time chat messaging and using "getStream" SDK library. Connected to the backend with Express.js and Nodemon.',
+		github: 'https://github.com/laststonedjs/Chatorzo',
 	},
 	{
 		id: 2,
-		image: project2,
-		title: 'Original invention of me and my team that allows all the members of a working community to share and learn from various feedbacks from their colleagues.',
-		github: 'https://github.com/laststonedjs',
-		linkedIn: 'https://www.linkedin.com/in/filip-sarovic-4376a61a1/'
+		image: name_it_project2,
+		title: '"Name It" is a simple application that allows you to search for a cool name for your next project/startup. Built using React.',
+		github: 'https://github.com/laststonedjs/Name-It',
 	},
 	{
 		id: 3,
-		image: project3,
-		title: 'Bob the SheepO represents the NFT collection. I have helped with website development.',
-		github: 'https://github.com/laststonedjs',
-		linkedIn: 'https://www.linkedin.com/in/filip-sarovic-4376a61a1/'
+		image: gamesoft_project3,
+		title: 'An app that deals with the sale of video games, used Angular and Node.js for development and made as a "final project" during my studies.',
+		github: 'https://github.com/laststonedjs/gamesoft-app',
 	},
 	{
 		id: 4,
-		image: project4,
+		image: bookndrive_project4,
 		title: 'BookNDrive is an Enterprise web and mobile app that is used for car sharing. The business is centered in Germany and has 10,000 daily active users.',
 		github: 'https://github.com/laststonedjs',
-		linkedIn: 'https://www.linkedin.com/in/filip-sarovic-4376a61a1/'
 	},
 	{
 		id: 5,
-		image: project5,
-		title: 'Original idea to create an inventory of the client impressive life works and we embodied it through the "Zec Archive" project.',
-		github: 'https://github.com/laststonedjs',
-		linkedIn: 'https://www.linkedin.com/in/filip-sarovic-4376a61a1/'
+		image: pokedex_project5,
+		title: 'As a big fan of this series, I made a personal pokedex using JavaScript. Have fun and meet my collection of pokemons!',
+		github: 'https://github.com/laststonedjs/Pokedex',
 	},
 	{
 		id: 6,
-		image: project6,
-		title: 'On this project my primary role is to display the relevant data in the form of comprehensive daily and general summaries.',
+		image: bob_project6,
+		title: 'Bob the SheepO represents the NFT collection. I have helped with creating an intuitive, consistent interface that reflects positively on this brand.',
 		github: 'https://github.com/laststonedjs',
-		linkedIn: 'https://www.linkedin.com/in/filip-sarovic-4376a61a1/'
 	},
 ]
 
@@ -77,12 +71,12 @@ const Portfolio = () => {
 										rel="noreferrer">
 											GitHub
 									</a>
-									<a href={linkedIn} 
+									{/* <a href={linkedIn} 
 										className='btn btn-primary' 
 										target='_blank' 
 										rel="noreferrer">
 											LinkedIn
-									</a>
+									</a> */}
 								</div>
 							</article>
 						)
