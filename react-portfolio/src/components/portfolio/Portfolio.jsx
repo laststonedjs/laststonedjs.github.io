@@ -5,7 +5,7 @@ import name_it_project2 from '../../assets/name-it-portfolio.png'
 import gamesoft_project3 from '../../assets/gamesoft_portfolio_angular.jpg'
 import bookndrive_project4 from '../../assets/project4.png'
 import pokedex_project5 from '../../assets/pokedex_portfolio.jpg'
-import bob_project6 from '../../assets/project3.png'
+import zec_archive_project6 from '../../assets/zecMob.png'
 // styles
 import './Portfolio.css'
 
@@ -32,7 +32,7 @@ const data = [
 		id: 4,
 		image: bookndrive_project4,
 		title: 'BookNDrive is an Enterprise web and mobile app that is used for car sharing. The business is centered in Germany and has 10,000 daily active users.',
-		github: 'https://github.com/laststonedjs',
+		github: 'https://github.com/laststonedjs/book-n-drive',
 	},
 	{
 		id: 5,
@@ -42,9 +42,9 @@ const data = [
 	},
 	{
 		id: 6,
-		image: bob_project6,
-		title: 'Bob the SheepO represents the NFT collection. I have helped with creating an intuitive, consistent interface that reflects positively on this brand.',
-		github: 'https://github.com/laststonedjs',
+		image: zec_archive_project6,
+		title: "Original idea to create an inventory of the client's impressive life works and we embodied it through the 'Zec Archive' project.",
+		github: 'https://github.com/laststonedjs/zec-archive',
 	},
 ]
 
