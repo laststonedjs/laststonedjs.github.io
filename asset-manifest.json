@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.905e1067.css",
-    "main.js": "/static/js/main.286febb9.js",
+    "main.js": "/static/js/main.7ad31469.js",
     "static/media/project4.png": "/static/media/project4.00169a7981031cd38982.png",
     "static/media/chatorzo_portfolio_react.jpg": "/static/media/chatorzo_portfolio_react.7efe0c152997a65c2e01.jpg",
     "static/media/gamesoft_portfolio_angular.jpg": "/static/media/gamesoft_portfolio_angular.cce39342111983dfd026.jpg",
     "static/media/cv.pdf": "/static/media/cv.55da977ad13a8027cb5d.pdf",
-    "static/media/project3.png": "/static/media/project3.f73d5edc142aeb8a675f.png",
+    "static/media/zecMob.png": "/static/media/zecMob.23c89af2a5789318a45e.png",
     "static/media/pokedex_portfolio.jpg": "/static/media/pokedex_portfolio.7c159e0a6c45056e2eb9.jpg",
     "static/media/web-dev-header.png": "/static/media/web-dev-header.c4bbd52c285739cf1b22.png",
     "static/media/name-it-portfolio.png": "/static/media/name-it-portfolio.235322a4c5bab72d9a6a.png",
     "static/media/avatar1.jpg": "/static/media/avatar1.e6dd5c23da39c8f857ee.jpg",
     "index.html": "/index.html",
     "main.905e1067.css.map": "/static/css/main.905e1067.css.map",
-    "main.286febb9.js.map": "/static/js/main.286febb9.js.map"
+    "main.7ad31469.js.map": "/static/js/main.7ad31469.js.map"
   },
   "entrypoints": [
     "static/css/main.905e1067.css",
-    "static/js/main.286febb9.js"
+    "static/js/main.7ad31469.js"
   ]
 }
