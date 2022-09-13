@@ -19,7 +19,7 @@ const data = [
 	{
 		id: 2,
 		image: name_it_project2,
-		title: '"Name It" is a simple application that allows you to search for a cool name for your next project/startup. Built using React.',
+		title: '"Name It" is a simple application that allows you to search for a cool name for your next project/startup. through this project I mastered the basics of React.',
 		github: 'https://github.com/laststonedjs/Name-It',
 	},
 	{
@@ -37,7 +37,7 @@ const data = [
 	{
 		id: 5,
 		image: pokedex_project5,
-		title: 'As a big fan of this series, I made a personal pokedex using JavaScript. Have fun and meet my collection of pokemons!',
+		title: 'As a big fan of this universe, I made a pokedex using JavaScript. Have fun and meet Pokemons in my collection!',
 		github: 'https://github.com/laststonedjs/Pokedex',
 	},
 	{
